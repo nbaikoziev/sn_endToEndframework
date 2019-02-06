@@ -1,0 +1,10 @@
+git init -- create local repository
+git add .project
+git add -A   -- add everything to staging
+git remore add origin ulr
+git commit -m"latest change"
+git push -i origin master
+
+
+git clone url
+git pull url
